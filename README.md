@@ -459,6 +459,7 @@ algorithms, knowledgebase and AI technology.
 * [Holehe](https://github.com/megadose/holehe)
 * [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
 * [Hunter](https://hunter.io) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
+* [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free Infostealer intelligence toolkit to check if your domain, email address, or username was exposed in a global malware campaign. 
 * [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
 * [MailTester](http://mailtester.com)
 * [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
